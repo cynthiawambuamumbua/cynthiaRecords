@@ -1,16 +1,16 @@
 fun main(args: Array<String>) {
-    var fullName = "Cynthia Mumbua wambua"
+    var fullName: String = "Cynthia Mumbua"
     println(fullName)
 
-    var age = 19
+    var age: Byte = 19
     println(age)
 
-    var weightKg = 56
+    var weightKg: Int = 56
     println(weightKg)
 
-    var phoneNumber = "0713504579"
+    var phoneNumber: String = "0713504579"
     println(phoneNumber)
 
-    var citizen : Boolean = true
-    println(citizen)
+    var citizenKenya : Boolean = true
+    println(citizenKenya)
 }
