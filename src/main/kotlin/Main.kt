@@ -8,9 +8,10 @@ fun main(args: Array<String>) {
     var weightKg: Int = 56
     println(weightKg)
 
-    var phoneNumber: String = "0713504579"
+    var phoneNumber = 713504579
     println(phoneNumber)
+    var citizen: Boolean = true
+    println(citizen)
 
-    var citizenKenya : Boolean = true
-    println(citizenKenya)
+
 }
